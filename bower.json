@@ -1,0 +1,23 @@
+{
+    "name": "purescript-sortable-hoc",
+    "description": "Purescript wrapper for purescript-sortable-hoc",
+    "authors": "Vishnu Prasad <vishnu@atomicits.com>",
+    "license": "MIT",
+    "keywords": [
+        "purescript",
+        "react",
+        "drag-drop",
+    ],
+    "homepage": "",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "purescript-react": "^2.0.0"
+    }
+}
